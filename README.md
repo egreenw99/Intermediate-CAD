@@ -15,15 +15,13 @@ Making the board was easy. Getting the ends to curve was a new challenge I had n
 # Truck Baseplate
 
 ## Decription
-`
-
-`
+This is going to attach to the Deck, Bushing, Truck hangar, and wheels.
 
 ## image
 ![Screenshot 2021-10-25 100409](https://user-images.githubusercontent.com/71407132/138710343-8c06ab50-40f3-4907-8bbb-97f4c24b43c1.png)
 
 ## Reflection
-
+Making this part was easy at first, but it then turned into a challenge. I hade to cut, add, and extrude parts in a very specific way.
 
 # Truck hangar
 
@@ -46,5 +44,14 @@ Making the board was easy. Getting the ends to curve was a new challenge I had n
 
 ## image
 ![Screenshot 2021-10-25 100516](https://user-images.githubusercontent.com/71407132/138710509-d9fe2891-f296-4297-b161-9e875ae14a2b.png)
+
+## Reflection
+
+# Wheels/bearings
+
+## Decription
+
+
+## image
 
 ## Reflection
