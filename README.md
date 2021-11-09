@@ -54,3 +54,58 @@ The wheels attach to the hangar and move the board. The bearings fit in between 
 
 ## Reflection
 making the wheels and bearings was very easy. the wheel was just two circles extruded with a fillet on the sides, similar to the bushing design, with an extrude in the center to fit the bearing. The Bearing design is exatly the same as the wheels minus the fillet.
+
+#
+
+### Description & Code
+Description goes here
+
+Here's how you make code look like code:
+
+
+### Evidence
+
+### wiring
+
+### Reflection
+
+#
+
+### Description & Code
+Description goes here
+
+Here's how you make code look like code:
+
+
+### Evidence
+
+### wiring
+
+### Reflection
+
+#
+
+### Description & Code
+Description goes here
+
+Here's how you make code look like code:
+
+
+### Evidence
+
+### wiring
+
+### Reflection
+
+# Multi-Tool
+
+### Description
+It's a multi-tool design made from plastic acrylic. It has inches and centimeters on the vertical and horizontal parts. 
+
+
+### Evidence
+![Screenshot 2021-11-09 095434](https://user-images.githubusercontent.com/71407132/140947240-57e1e14e-02b7-4ad8-83ce-0da6d8a3bb98.png)
+
+
+### Reflection
+Making the design was very straightforward. One new thing I learned that I didn't know before was the sketch fillet. 
