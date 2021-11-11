@@ -83,20 +83,19 @@ Here's how you make code look like code:
 
 ### Reflection
 
-#
+# Lego Assignment 
 
 ### Description & Code
-Description goes here
-
-Here's how you make code look like code:
+It is a 3D verson of legos. It comes in 3 colors Red, Blue, and Yellow. It also come in different sizes 
+![Screenshot 2021-11-11 103634](https://user-images.githubusercontent.com/71407132/141325706-7571ece5-65cf-4313-9349-682f72f8494b.png)
 
 
 ### Evidence
 
-### wiring
+![Screenshot 2021-11-11 103050](https://user-images.githubusercontent.com/71407132/141324770-06778913-b2ae-4491-b884-d136c1db3414.png)
 
 ### Reflection
-
+I learned alot from this assignment. Making the lego was the easy part. The new thing that I earned to do was configurations. I learned how to add new configurations, edit configurations, and implement custom features.
 # Multi-Tool
 
 ### Description
